@@ -1,22 +1,16 @@
-# Welcome to your Lovable project
+# Welcome to Sumthing Store Landing Page
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/bc1748e4-436f-40ea-9461-f2beee94cb58
+A modern landing page built with React and TypeScript.
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/bc1748e4-436f-40ea-9461-f2beee94cb58) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
 **Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+You can work locally using your own IDE by cloning this repo and pushing changes.
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 

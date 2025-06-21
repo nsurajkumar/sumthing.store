@@ -16,11 +16,14 @@ const Header = () => {
           
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center space-x-8">
-            <a href="#products" className="text-gray-300 hover:text-white transition-colors">Products</a>
-            <a href="#features" className="text-gray-300 hover:text-white transition-colors">Features</a>
-            <a href="#about" className="text-gray-300 hover:text-white transition-colors">About</a>
-            <Button className="bg-gradient-to-r from-orange-500 to-pink-500 hover:from-orange-600 hover:to-pink-600">
-              Pre-Order Now
+            <a href="https://forms.gle/thwNDRPUwadii9do7" className="text-gray-300 hover:text-white transition-colors">Products</a>
+            <a href="https://forms.gle/thwNDRPUwadii9do7" className="text-gray-300 hover:text-white transition-colors">Features</a>
+            <a href="https://forms.gle/thwNDRPUwadii9do7" className="text-gray-300 hover:text-white transition-colors">About</a>
+            <Button 
+                className="bg-gradient-to-r from-orange-500 to-pink-500 hover:from-orange-600 hover:to-pink-600"
+                onClick={() => window.location.href = "https://forms.gle/thwNDRPUwadii9do7"}
+            >
+                Pre-Order Now
             </Button>
           </div>
 
@@ -37,10 +40,13 @@ const Header = () => {
         {isMenuOpen && (
           <div className="md:hidden mt-4 pb-4 border-t border-gray-800">
             <div className="flex flex-col space-y-4 mt-4">
-              <a href="#products" className="text-gray-300 hover:text-white transition-colors">Products</a>
-              <a href="#features" className="text-gray-300 hover:text-white transition-colors">Features</a>
-              <a href="#about" className="text-gray-300 hover:text-white transition-colors">About</a>
-              <Button className="bg-gradient-to-r from-orange-500 to-pink-500 hover:from-orange-600 hover:to-pink-600 w-full">
+              <a href="https://forms.gle/thwNDRPUwadii9do7" className="text-gray-300 hover:text-white transition-colors">Products</a>
+              <a href="https://forms.gle/thwNDRPUwadii9do7" className="text-gray-300 hover:text-white transition-colors">Features</a>
+              <a href="https://forms.gle/thwNDRPUwadii9do7" className="text-gray-300 hover:text-white transition-colors">About</a>
+              <Button 
+                className="bg-gradient-to-r from-orange-500 to-pink-500 hover:from-orange-600 hover:to-pink-600 w-full"
+                onClick={() => window.location.href = "https://forms.gle/thwNDRPUwadii9do7"}
+              >
                 Pre-Order Now
               </Button>
             </div>

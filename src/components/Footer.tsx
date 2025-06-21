@@ -19,30 +19,30 @@ const Footer = () => {
           <div>
             <h4 className="text-white font-semibold mb-4">Products</h4>
             <ul className="space-y-2 text-gray-400">
-              <li><a href="#" className="hover:text-white transition-colors">Sumthing Phone</a></li>
-              <li><a href="#" className="hover:text-white transition-colors">Sumthing Pad</a></li>
-              <li><a href="#" className="hover:text-white transition-colors">Sumthing Pods</a></li>
-              <li><a href="#" className="hover:text-white transition-colors">Sumthing Watch</a></li>
+              <li><a href="https://forms.gle/thwNDRPUwadii9do7" className="hover:text-white transition-colors">Sumthing Phone</a></li>
+              <li><a href="https://forms.gle/thwNDRPUwadii9do7" className="hover:text-white transition-colors">Sumthing Pad</a></li>
+              <li><a href="https://forms.gle/thwNDRPUwadii9do7" className="hover:text-white transition-colors">Sumthing Pods</a></li>
+              <li><a href="https://forms.gle/thwNDRPUwadii9do7" className="hover:text-white transition-colors">Sumthing Watch</a></li>
             </ul>
           </div>
           
           <div>
             <h4 className="text-white font-semibold mb-4">Company</h4>
             <ul className="space-y-2 text-gray-400">
-              <li><a href="#" className="hover:text-white transition-colors">About</a></li>
-              <li><a href="#" className="hover:text-white transition-colors">Careers</a></li>
-              <li><a href="#" className="hover:text-white transition-colors">Press</a></li>
-              <li><a href="#" className="hover:text-white transition-colors">Contact</a></li>
+              <li><a href="https://forms.gle/thwNDRPUwadii9do7" className="hover:text-white transition-colors">About</a></li>
+              <li><a href="https://forms.gle/thwNDRPUwadii9do7" className="hover:text-white transition-colors">Careers</a></li>
+              <li><a href="https://forms.gle/thwNDRPUwadii9do7" className="hover:text-white transition-colors">Press</a></li>
+              <li><a href="https://forms.gle/thwNDRPUwadii9do7" className="hover:text-white transition-colors">Contact</a></li>
             </ul>
           </div>
           
           <div>
             <h4 className="text-white font-semibold mb-4">Support</h4>
             <ul className="space-y-2 text-gray-400">
-              <li><a href="#" className="hover:text-white transition-colors">Documentation</a></li>
-              <li><a href="#" className="hover:text-white transition-colors">Community</a></li>
-              <li><a href="#" className="hover:text-white transition-colors">GitHub</a></li>
-              <li><a href="#" className="hover:text-white transition-colors">Privacy</a></li>
+              <li><a href="https://forms.gle/thwNDRPUwadii9do7" className="hover:text-white transition-colors">Documentation</a></li>
+              <li><a href="https://forms.gle/thwNDRPUwadii9do7" className="hover:text-white transition-colors">Community</a></li>
+              <li><a href="https://forms.gle/thwNDRPUwadii9do7" className="hover:text-white transition-colors">GitHub</a></li>
+              <li><a href="https://forms.gle/thwNDRPUwadii9do7" className="hover:text-white transition-colors">Privacy</a></li>
             </ul>
           </div>
         </div>
